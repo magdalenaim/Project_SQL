@@ -98,7 +98,8 @@ Overview of the most in-demand skills for the top 10 highest-paying data analyst
 - **Tableau** is also highly valued
 - Other skills such as **R**, **Snowflake**, **Pandas**, and **Excel** exhibit varying levels of demand.
 
-![Top Paying Skills](image\Skills_Count_for_Top_10_Paying_DA_Jobs_in_2023.png)
+![Top Paying Skills](image/Skills_Count_for_Top_10_Paying_DA_Jobs_in_2023.png)
+
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts. I use Python to visualize.*
 
 ## 3. In-Demand Skills for Data Analysts
